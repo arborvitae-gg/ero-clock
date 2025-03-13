@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ero-clock2",
-    "slug": "ero-clock2",
+    "name": "ero-clock",
+    "slug": "ero-clock",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
