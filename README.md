@@ -5,5 +5,6 @@ Tasks:
   a. Create an Expo account (Link: https://expo.dev/accounts/arborvitae)
   b. Install 'Expo Go' in a mobile device (Available on both Android and IOS. Check App Store/ Google Play Store. For easy app testing on mobile)
 6. Learn about Firebase and its tools (Used for Backend)
-7. Play around with the tech stack to get used to it
-8. Try testing the app in a mobile device using 'Expo Go'
+7. Clone the repository and create a separate branch
+8. Use the created branch to play around with the app
+9. Try testing the app in a mobile device using 'Expo Go'
